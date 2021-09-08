@@ -1,4 +1,4 @@
-### Oi 👋
+### Hi! 👋
 
 - 🌱 I’m currently learning  Java/Spring Boot, React/Next
 - 👯 I’m looking to collaborate on
